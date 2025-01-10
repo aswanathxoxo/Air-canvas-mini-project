@@ -1,5 +1,5 @@
 # virtual-paint
-This is a virtual painting python script bult using opencv and mediapipe
+This is a virtual painting python script built using opencv and mediapipe
 
 project developed by 
     Abhijith MA (UKP21CS004)
